@@ -1,5 +1,9 @@
 # 🐧 Linux Bootstrap — Docker + Portainer
 
+![Linux](https://img.shields.io/badge/Linux-supported-brightgreen?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-required-blue?logo=docker)
+![Shell](https://img.shields.io/badge/Shell-Bash-black?logo=gnu-bash)
+
 Automação **one-shot** para preparar rapidamente um host Linux com **Docker Engine**, **Docker Compose (plugin oficial)** e **Portainer** como **primeiro container**.
 
 Pensado para **labs DevOps**, **VMs cloud**, **homelab** e **servidores recém-provisionados**.
